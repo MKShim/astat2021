@@ -1,2 +1,2 @@
 # astat2021
-for AIDD project
+for AI project
